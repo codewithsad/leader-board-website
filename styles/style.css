@@ -163,7 +163,13 @@ hr {
     background-color: #FEE5DF;
     border-radius: 14.6913px;
 }
-
+footer-copyright {
+  background: black;
+  color: white;
+  text-align: center !important;
+  padding-top: 1.5rem !important;
+  padding-bottom: 1.5rem !important;
+}
 /* Media Queries */
 /* Mobile Devices */
 
@@ -180,6 +186,4 @@ hr {
     .courses {
         display: none;
     }
-
-
 }
