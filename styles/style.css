@@ -164,11 +164,17 @@ hr {
     border-radius: 14.6913px;
 }
 .footer-copyright.text-center.py-4 {
+  padding-top: 1.5rem !important;
+  padding-bottom: 1.5rem !important;
+}
+.footer-copyright .container { 
   background: black;
   color: white;
   text-align: center !important;
-  padding-top: 1.5rem !important;
-  padding-bottom: 1.5rem !important;
+  width: 870px;
+  padding: 30px;
+  border-radius: 5px;
+  margin-top: 21px;
 }
 /* Media Queries */
 /* Mobile Devices */
