@@ -176,6 +176,10 @@ hr {
   border-radius: 5px;
   margin-top: 21px;
 }
+.footer-copyright .row p a {
+  color: white;
+  text-decoration: none;
+}
 /* Media Queries */
 /* Mobile Devices */
 
