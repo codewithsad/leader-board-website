@@ -163,7 +163,7 @@ hr {
     background-color: #FEE5DF;
     border-radius: 14.6913px;
 }
-.footer-copyright {
+.footer-copyright.text-center.py-4 {
   background: black;
   color: white;
   text-align: center !important;
